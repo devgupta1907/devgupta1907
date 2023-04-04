@@ -1,8 +1,16 @@
 - 👋 Heya Everyone, this is @devgupta1907
 - 👀 I love Coding and mostly spend my day learning and enhancing my skills
 - 🌱 I’m currently learning Data Science & Machine Learning
-- 📫 I like to talk to new people and interact with them. Here's my profiles:
-      Mail me- devgupta2040@gmail.com
+- 📫 I like to talk to new people and interact with them. Here are my profiles:
+      
+      
+      
+I am an aspiring Data Analyst with a passion for lifelong learning.
+My expertise lies in SQL, Excel, Power BI and Python which I used to turn raw data into meaningful insights.
+I always keep exploring new career fields and opportunities, and looking for ways to challenge myself and reach new heights.
+When I'm not diving into the latest finance and business books, you can find me expanding my knowledge on investing, and looking for opportunities to connect with industry experts in the future.
+Here are my profiles:
+      Mail_me- devgupta2040@gmail.com
       LinkedIn- @devgupta1926
 
 <!---
